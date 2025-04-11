@@ -5,6 +5,9 @@
 ### ꕤ Projeto
 Este projeto é uma **API RESTful** desenvolvida em **Java**, utilizando **Spring Boot**. O sistema permite o gerenciamento de bolos, pedidos e clientes de uma boleria!
 #
+link swagger
+http://localhost:8080/swagger-ui.html
+
 ### ꕤ Funcionalidades
  A API permite executar operações CRUD para as entidades:
 
